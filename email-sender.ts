@@ -102,7 +102,7 @@ const formatEmailContent = (result: PriceCalculationResult): string => {
         </tbody>
       </table>
       
-      <p style="margin-top: 20px;">These prices have been calculated based on today's rack prices with your specific discount applied.</p>
+      <p style="margin-top: 20px;">These prices have been calculated based on today's rack prices and applicable taxes.</p>
       
       <p>Thank you,<br>Fuel Price Automation System</p>
     </div>
